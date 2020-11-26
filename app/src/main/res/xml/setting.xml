@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+        <EditTextPreference
+        android:defaultValue="@string/settings_min_numbers_of_article_default"
+        android:hint="@string/hint_num_of_items"
+        android:inputType="numberDecimal"
+        android:key="@string/settings_min_numbers_of_article_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_min_numbers_of_article_label"/>
+    <ListPreference
+        android:title="order by"
+        android:key="@string/settings_order_by_article_key"
+        android:defaultValue="@string/settings_order_by_default"
+        android:entries="@array/order_by"
+        android:entryValues="@array/order_by"
+        />
+    <Preference
+        android:defaultValue="@string/settings_from_date_default"
+        android:key="@string/settings_from_date_key"
+        android:title="@string/settings_from_date_label" />
+
+
+
+
+</PreferenceScreen>

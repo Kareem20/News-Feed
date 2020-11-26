@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="no_News">No News found.</string>
+    <string name="No_Internet_Connection">No Internet Connection.</string>
+    <string name="No_result_found">No result found.</string>
+    <string name="No_matching_1">We can not find any item matching</string>
+    <string name="No_matching_2">your search.</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_numbers_of_article_label">Minimum Number</string>
+    <string name="settings_min_numbers_of_article_key" translatable="false">min_Number</string>
+    <string name="settings_min_numbers_of_article_default" translatable="false">10</string>
+    <string name="hint_num_of_items">Between 1 and 50</string>
+
+    <!-- Strings for Order Date preference [CHAR LIMIT=30] -->
+    <string name="settings_order_date_label">Order Date</string>
+    <string name="settings_order_date_key" translatable="false">order date</string>
+    <string name="settings_order_date_default" translatable="false">@string/settings_order_date_published_value</string>
+
+    <!-- Label for order-date published option [CHAR LIMIT=20]-->
+    <string name="settings_order_date_published_label">Published</string>
+    <string name="settings_order_date_published_value" translatable="false">published</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_type_article_label">article type</string>
+    <string name="settings_type_article_article_key" translatable="false">type_article</string>
+    <string name="settings_type_article_default" translatable="false">world</string>
+
+    <!-- Strings For order by Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by">order by</string>
+    <string name="settings_order_by_article_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+    <!-- Strings for From Date preference [CHAR LIMIT=30] -->
+    <string name="settings_from_date_label">From Date</string>
+    <string name="settings_from_date_key" translatable="false">from date</string>
+    <string name="settings_from_date_default" translatable="false">2010-01-01</string>
+
+    <!-- Strings for Section -->
+    <string name="world">world</string>
+    <string name="science">science</string>
+    <string name="sport">sport</string>
+    <string name="environment">environment</string>
+    <string name="society">society</string>
+    <string name="education">education</string>
+    <string name="business">business</string>
+    <string name="culture">culture</string>
+    <string name="economy">economy</string>
+    <string name="politics">politics</string>
+    <string name="Islam">Islam</string>
+
+
+    <!-- Strings for items in activity_main_drawer.xml -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_world">World</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_sport">Sport</string>
+    <string name="ic_title_environment">Environment</string>
+    <string name="ic_title_society">Society</string>
+    <string name="ic_title_education">Education</string>
+    <string name="ic_title_business">Business</string>
+    <string name="ic_title_culture">Culture</string>
+
+    <!-- Strings for order by -->
+    <string name="newest">newest</string>
+    <string name="oldest">oldest</string>
+    <string name="relevance">relevance</string>
+
+
+    <string name="article_image">Article Image</string>
+    <string name="article_author">article author</string>
+    <string name="author">Author</string>
+    <string name="section">section</string>
+    <string name="no_internet_connection">No Internet Connection.</string>
+    <string name="time">Time</string>
+    <string name="back">back</string>
+    <string name="search">search</string>
+    <string name="worldwide">WorldWide</string>
+    <string name="confirm">Confirm</string>
+    <string name="recovered">Recovered</string>
+    <string name="number">100000</string>
+    <string name="death">Death</string>
+    <string name="covid_19">covid-19</string>
+    <string name="the_guardian">The-Guardian</string>
+    <string name="app_icon">app icon</string>
+    <string name="new_feed">New Feed</string>
+    <string name="icon">icon</string>
+
+
+</resources>
